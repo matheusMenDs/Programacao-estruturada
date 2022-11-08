@@ -1,1 +1,1 @@
-Codes created in structured programming classes
+Lists and codes created in structured programming classes
