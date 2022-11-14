@@ -11,10 +11,10 @@ int main (){
             if (i<j){
             	matriz[i][j] = 2*i + 7*j -2;  
             }
-            else if (i==j){
+            else if (i == j){
             	matriz[i][j] = pow(3*i,2) - 1;
             }
-            else if (i>j){
+            else if (i > j){
             	matriz[i][j] = pow(4*i,3) + pow(5*j,2) +1;
             } 
         }    
