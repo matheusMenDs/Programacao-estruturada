@@ -1,1 +1,1 @@
-Lists and codes created in structured programming classes
+Listas e Atividades da matéria de Programação Estruturada
