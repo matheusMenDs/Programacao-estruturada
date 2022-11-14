@@ -8,7 +8,7 @@ int main(){
     
 	for(i=0; i<6; i++){
         for (j=0; j<6; j++){
-        	printf("Informe o tamanho da Matriz [%d] [%d]: ", i, j);
+        	printf("Informe o tamanho da Matriz: [%d] [%d]: ", i, j);
         	//fflush(stdin);
         	//fgets(num[i][j],10,stdin);
 			scanf("%d", &num[i][j]);
