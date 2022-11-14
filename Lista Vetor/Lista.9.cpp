@@ -7,7 +7,7 @@ int main(){
     int c,i;
     
 	printf("Informe a quantidade de funcionarios: ");
-    scanf("%d", &c);
+    	scanf("%d", &c);
     
 	int meses[c],matricula[c],recente[3],mvelho;
     
@@ -15,9 +15,9 @@ int main(){
          if (matricula[i] == 0){
             break;
         }
-    printf("Informe os meses que funcionario %d trabalha: ", i);
-    scanf("%d", &meses[i]);
-    }
+   	 printf("Informe os meses que funcionario %d trabalha: ", i);
+    	scanf("%d", &meses[i]);
+    	}
     
 	for ( i = 0; i < c; i++){
         if (meses[i] > mvelho){
