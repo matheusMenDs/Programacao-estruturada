@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>     
 
-int main() {                                         //corrigir para colocar ATÉ 100 CD'S
-	double cd[5], cd10[5], cdx[5], porcentagem;    //está lendo apenas 5
+int main() {                                         
+	double cd[5], cd10[5], cdx[5], porcentagem;   
 	int i;
 	 
 	for(i=0;i<5;i++) {
