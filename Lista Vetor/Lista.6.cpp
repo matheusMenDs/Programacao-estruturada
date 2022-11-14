@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>                //falta corrigir, está lendo apenas 3 funcionarios
-                                  //deveria perguntar primeiro, quantos funcionarios
-int main(){                      //a pessoa vai querer ler (primeira coisa do codigo)
+#include <stdlib.h>                
+                                 
+int main(){                      
     char matricula[4][4];
     float salario[4];
 	float menorValor = 999999;
