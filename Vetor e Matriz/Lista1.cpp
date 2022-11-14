@@ -6,7 +6,7 @@ int main(){
     int notas[4];
     int i;
     int continua;
-    int count = 0;
+    int count =0;
     int pesquisa;
     
     for ( i = 0; i < 4; i++){
