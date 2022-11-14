@@ -25,7 +25,7 @@ int main (){
     
 	for (i=0; i<3; i++){
         coluna1 = coluna1 + matriz[i][i];
-        printf("%d", coluna1); 
+       		printf("%d", coluna1); 
     }
     
 	for (i=0; i<2; i++){
