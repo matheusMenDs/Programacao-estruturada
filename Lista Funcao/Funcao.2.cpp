@@ -1,5 +1,6 @@
-/*2. Faça uma função que receba um número inteiro entre 1 a 12 e imprima em tela o mês e a 
-sua quantidade de dias de acordo com o número digitado pelo usuário. Exemplo: Entrada = 4. Saída = abril.*/
+/*2. FaÃ§a uma funÃ§Ã£o que receba um nÃºmero inteiro entre 1 a 12 e imprima em tela o mÃªs e a 
+sua quantidade de dias de acordo com o nÃºmero digitado pelo usuÃ¡rio. Exemplo: Entrada = 4. SaÃ­da = abril.*/
+
 #include <stdio.h>
 #include <math.h>
 
