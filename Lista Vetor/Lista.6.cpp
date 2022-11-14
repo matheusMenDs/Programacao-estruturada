@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>                //falta corrigir, est· lendo apenas 3 funcionarios
+#include <stdlib.h>                //falta corrigir, est√° lendo apenas 3 funcionarios
                                   //deveria perguntar primeiro, quantos funcionarios
 int main(){                      //a pessoa vai querer ler (primeira coisa do codigo)
     char matricula[4][4];
