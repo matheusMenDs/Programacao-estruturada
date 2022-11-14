@@ -1,1 +1,1 @@
-Código para ler e mostrar os salários de funcionários durante os meses
+Código para ler e mostrar os salários dos funcionários durante os meses
