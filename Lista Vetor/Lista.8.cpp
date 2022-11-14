@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main(){                                         //corrigir para ler ATÉ 100 idades
-    int idade[10], index_velha[10];                //a pessoa deve informar quantas idades ela quer ler
-    int i, mais_velha, cont_velha, tot_idade = 0; //está lendo apenas 10 idades
+int main(){                                         
+    int idade[10], index_velha[10];                
+    int i, mais_velha, cont_velha, tot_idade = 0; 
 	cont_velha = 0;
 
     for(i = 0; i < 10; i++){
