@@ -10,7 +10,7 @@ int main (){
 	for (i=0; i<10; i++){
        printf("Informe o numero %d: ", i);
        scanf("%d", &num[i]);
-       a=num[i];
+       a = num[i];
        
 	   for (j=0; j<10; j++){
             if (a == num[j]){
