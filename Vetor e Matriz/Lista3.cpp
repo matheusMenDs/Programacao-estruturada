@@ -12,7 +12,7 @@ int main (){
        scanf("%d", &num[i]);
        a=num[i];
        
-	   for (j=0; j<10; j++){
+	for (j=0; j<10; j++){
             if (a == num[j]){
                 printf("Informe outro numero, o numero: %d ja existe: ", num[j]);
                 scanf("%d", &num[j]);   
