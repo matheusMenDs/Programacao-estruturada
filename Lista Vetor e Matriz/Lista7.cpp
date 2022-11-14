@@ -29,7 +29,7 @@ int main (){
     }
     
 	for (i=0; i<2; i++){
-    	coluna2 = coluna2+ matriz[i][i+1]; 
+    	coluna2 = coluna2 + matriz[i][i+1]; 
     }
     
 	for (i=0; i<2; i++){ 
