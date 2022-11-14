@@ -33,7 +33,7 @@ int main(){
             scanf("%d",&pesquisa);
             for ( i = 0; i < 4; i++){
                 if (pesquisa == matricula[i]){
-                    printf("Matricula: %d\nNota: %d\n\n",matricula[i],notas[i]);
+                    printf("Matricula: %d\nNota: %d\n\n", matricula[i],notas[i]);
                     break;
                 }
             }
