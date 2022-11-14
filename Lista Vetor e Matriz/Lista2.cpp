@@ -12,9 +12,9 @@ int main(){
             m1[i]=m[i];
             par[i] = 1;
         }
-		else if (calc > 0){
+	else if (calc > 0){
            m2[i]=m[i];
-            impar[i]=1;
+           impar[i]=1;
         }  
     }
     
