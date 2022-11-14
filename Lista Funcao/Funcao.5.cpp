@@ -1,5 +1,6 @@
-/*5. Escreva uma funÁ„o para o c·lculo do volume de uma esfera  
-V = 4/3PI * r≥ em que p = 3.1414592 valor do raio r deve ser passado por par‚metro*/
+/*5. Escreva uma fun√ß√£o para o c√°lculo do volume de uma esfera  
+V = 4/3PI * r¬≥ em que p = 3.1414592 valor do raio r deve ser passado por par√¢metro*/
+
 #include <stdio.h>
 #include <math.h>
 #define PI 3.1414592
