@@ -27,7 +27,7 @@ int main(){
             if(a[i][j] > b[i][j]){
                 c[i][j] = a[i][j];
             }
-            else if (b[i][j]> a[i][j]){
+            else if (b[i][j] > a[i][j]){
                 c[i][j] = b[i][j];
             }
         }
