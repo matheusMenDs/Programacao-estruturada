@@ -1,1 +1,1 @@
-Lista de Funções
+Lista de Funções.
