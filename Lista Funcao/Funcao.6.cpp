@@ -1,5 +1,6 @@
-/*6. Escreva uma funÁ„o que receba o peso (quilos) e a altura (metros) de uma pessoa. Calcule 
-e retorne o IMC (Õndice de Massa Corporal) dessa pessoa: IMC = peso / (altura * altura)*/
+/*6. Escreva uma fun√ß√£o que receba o peso (quilos) e a altura (metros) de uma pessoa. Calcule 
+e retorne o IMC (√çndice de Massa Corporal) dessa pessoa: IMC = peso / (altura * altura)*/
+
 #include <stdio.h>
 #include <math.h>
 
