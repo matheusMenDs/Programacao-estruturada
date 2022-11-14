@@ -13,7 +13,7 @@ int main (){
     
     for ( i = 0; i < 10; i++){
         for ( j = 0; j < 10; j++){
-            if (notas[i]== notas[j]){
+            if (notas[i] == notas[j]){
                 printf("Nota: %d\nIgual a nota(s): %d\n", notas[i], notas[j]);
             }  
         }   
